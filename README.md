@@ -62,5 +62,3 @@ Contributions are welcome! If you find a bug or have an idea for an improvement,
 
 
 ---
-
-Feel free to customize the above Readme according to the specific details of your project. Make sure to provide the correct installation command for your application and update the links and references to your GitHub repository. The Readme is an essential document for your project as it helps users and contributors understand how to use and contribute to your application.
